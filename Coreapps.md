@@ -1,4 +1,5 @@
 ## Core apps suggestions
+
 * awesomewm
 * mumble
 * firefox
