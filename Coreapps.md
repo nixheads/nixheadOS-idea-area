@@ -1,7 +1,7 @@
-awesomewm
-mumble
-firefox
-urxvt
-X
-weechat
-ranger
+* awesomewm
+* mumble
+* firefox
+* urxvt
+* X
+* weechat
+* ranger
