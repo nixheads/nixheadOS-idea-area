@@ -1,10 +1,16 @@
-Full: nixheadOS
-Short: nOS
+# Branding Ideas
 
-Taglines:
-    It goes faster than other OSs
-    I live my life a linux kernel at a time
+## nixheadOS
+### shorthand: 
 
-Logos:
-    play of NOS logo?
+* nOS
+
+### taglines:
+
+* It goes faster than other OSs
+* I live my life a linux kernel at a time
+
+### logos:
+
+* play of NOS logo?
 
