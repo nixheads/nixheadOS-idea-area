@@ -1,7 +1,8 @@
-awesomewm
-mumble
-firefox
-urxvt
-X
-weechat
-ranger
+## Core apps suggestions
+* awesomewm
+* mumble
+* firefox
+* urxvt
+* X
+* weechat
+* ranger
