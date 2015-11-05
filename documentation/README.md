@@ -5,6 +5,6 @@ This section will (roughly) describe the process for documentation, whether it b
 * Submission
 * Creating
 * Formatting
-* tools
+* [tools](tools.md)
 * etc
 
