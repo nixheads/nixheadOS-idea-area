@@ -46,7 +46,7 @@ VCS stands for ***V***ersion ***C***ontrol ***S***ystem. Git has the ability to:
 * and much more
 
 
-## [``GitBook``](http://gitbook.com/)
+## [GitBook](http://gitbook.com/)
 
 ``Gitbook`` Allows you to make beautiful books with languages such as:
 
