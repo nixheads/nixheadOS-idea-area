@@ -32,7 +32,7 @@ I have a short outline of Gitbook in [tools](tools.md) section of the guide.
 The reason I would choose GitBook is because it's incredibly simple as you can use
 things like:
 
-* Text
+* TeX
 * Markdown
 * ASCIIdoc
 
