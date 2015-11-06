@@ -2,7 +2,7 @@
 
 This section will (roughly) describe the process for documentation, whether it be
 
-* Submission
+* [Submission](submission.md)
 * Creating
 * Formatting
 * [tools](tools.md)
