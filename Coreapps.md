@@ -5,5 +5,5 @@
 * firefox
 * urxvt
 * X
-* weechat
+* make option for weechat and/or https://github.com/nixheads/Irc-bash-client
 * ranger
