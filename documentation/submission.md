@@ -83,27 +83,6 @@ Assuming though the guidebook makes it through all ranks of documentation checks
 
 (note, technically guidebooks ONLY have to go through all these statges in you want them to be official, though I would suggest you to go through this process,
 
-### LaTeX/TeX/etc(i.e. TeX languages)
-
-These pretty much fall under the same guidelines as [guidebooks](#guidebooks) with a few exceptions.
-
-If approval is met things will go as such:
-
-* Your git repo will be forked under the organization
-* Your PDF will be added to the official list
-* Your PDF will be hosted(somehwere) available for the public
-
-### HTML 
-
-HTML(tutorials, guides, etc) would have to meet some simple requirements:
-
-* most likely abide by aesthetics of [tldp.org](https://www.tldp.org)
-* be under an appropriate license(e.g. CreativeCommons)
-* be quality:
-	* minimal typos(these can always be fixed)
-	* be clear and to the point
-	* be able to be understood by both n00bs and experts alike(assuming topic is SIMPLE enough)
-* be under a git repository so it's easily accessible to the public.
 
 ### Markdown
 
