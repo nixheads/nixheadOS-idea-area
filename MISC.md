@@ -30,17 +30,17 @@
 	- This framework if it can be helped should be:
 		- Pre existing.
 		- Stupidly simple to script for (not like Debian preseed) >.>
-		- Should be generated for each isntall a person does.
+		- Should be generated for each isntall a someone does.
 	- e.g. anaconda/kickstart, Debian preeseed.
-- Repos should have:
-	- The repo server(s) should:
+- Repos should:
+	- The server(s) should:
 		- Be easy to navigate.
 		- Have a sensible setup.
 		- support a variety of protcols http(s)/rsync/ftp(s).
-- Packages should:
-	- Conform to a standardize compression method:
-		- e.g. gz, tar, lz(4), xz, etc.
-	- Not be hard to package at all (Looking at you apt...POS).
-	- Have a centralized submission area for the community:
-		- e.g. AUR, Ports system, etc.
+	- Packages should:
+		- Conform to a standardize compression method:
+			- e.g. gz, tar, lz(4), xz, etc.
+		- Not be hard to package at all (Looking at you apt...POS).
+		- Have a centralized submission area for the community:
+			- e.g. AUR, Ports system, etc.
 
