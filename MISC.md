@@ -26,4 +26,7 @@
 		- Be easy to navigate
 		- Have a sensible setup
 		- support a variety of protcols http(s)/rsync/ftp(s)
-
+- Packages should:
+	- conform to a standardize compression method:
+		- e.g. gz, tar, lz(4), xz, etc
+	- 
