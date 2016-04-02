@@ -9,7 +9,7 @@
 - Should have a variety of install methods:
 	- Net install.
 	- Media Install (CD-ROM/DVD/USB).
-- Should have a vairety of install choices:
+- Should have a vairety of install "presets"?:
 	- Minimal
 	- Custom
 	- Automated
