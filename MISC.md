@@ -29,7 +29,7 @@
 - Should have a framework for automated/unattended installs.
 	- This framework if it can be helped should be:
 		- Pre existing.
-		- Stupidly simple to write (looking at you Debian preseed).
+		- Stupidly simple to script for (not like Debian preseed) >.>
 		- Should be generated for each isntall a person does.
 	- e.g. anaconda/kickstart, Debian preeseed.
 - Repos should have:
