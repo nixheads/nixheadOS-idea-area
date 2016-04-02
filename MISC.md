@@ -15,6 +15,11 @@
 	- Automated
 	- Basic
 	- "Server"?
+- The Net Install shoul:
+	- Be lightweight.
+	- Have modular components you can load (like the Debian installer).
+	- Be simple to write PXE/iPXE bootscripts for.
+	- Have prebuilt isos for the community.
 - Should have a framework for automated/unattended installs.
 	- This framework if it can be helped should be:
 		- Pre existing.
@@ -23,12 +28,13 @@
 	- e.g. anaconda/kickstart, Debian preeseed.
 - Repos should have:
 	- The repo server(s) should:
-		- Be easy to navigate
-		- Have a sensible setup
-		- support a variety of protcols http(s)/rsync/ftp(s)
+		- Be easy to navigate.
+		- Have a sensible setup.
+		- support a variety of protcols http(s)/rsync/ftp(s).
 - Packages should:
 	- Conform to a standardize compression method:
-		- e.g. gz, tar, lz(4), xz, etc
-	- Not be hard to package at all (Looking at you apt...POS)
+		- e.g. gz, tar, lz(4), xz, etc.
+	- Not be hard to package at all (Looking at you apt...POS).
 	- Have a centralized submission area for the community:
-		- e.g. AUR, Ports system, etc
+		- e.g. AUR, Ports system, etc.
+
