@@ -25,7 +25,7 @@
 	- Be lightweight.
 	- Have modular components you can load (like the Debian installer).
 	- Be simple to write PXE/iPXE bootscripts for.
-	- Have prebuilt isos for the community.
+	- Have prebuilt netinstall isos/images for the community.
 - Should have a framework for automated/unattended installs.
 	- This framework if it can be helped should be:
 		- Pre existing.
