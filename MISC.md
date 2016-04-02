@@ -44,3 +44,7 @@
 		- Have a centralized submission area for the community:
 			- e.g. AUR, Ports system, etc.
 
+- Things I don't think, but may be good?
+	- Shouldn't contain software that wants to do everything itself:
+		- e.g. systemd, pulseaudio, emacs (it's almost an OS :P)
+	- One application has one function, and does it DAMN well.
