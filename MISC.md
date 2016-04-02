@@ -27,10 +27,11 @@
 	- Be simple to write PXE/iPXE bootscripts for.
 	- Have prebuilt netinstall isos/images for the community.
 - Should have a framework for automated/unattended installs.
-	- This framework if it can be helped should be:
-		- Pre existing.
+	- This framework if it can be helped should:
+		- Be pre existing.
 		- Stupidly simple to script for (not like Debian preseed) >.>
 		- Should be generated for each isntall a someone does.
+		- support both GUI and Ncurses/CLI interfaces?
 	- e.g. anaconda/kickstart, Debian preeseed.
 - Repos should:
 	- The server(s) should:
