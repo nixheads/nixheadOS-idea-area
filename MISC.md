@@ -27,6 +27,8 @@
 		- Have a sensible setup
 		- support a variety of protcols http(s)/rsync/ftp(s)
 - Packages should:
-	- conform to a standardize compression method:
+	- Conform to a standardize compression method:
 		- e.g. gz, tar, lz(4), xz, etc
-	- 
+	- Not be hard to package at all (Looking at you apt...POS)
+	- Have a centralized submission area for the community:
+		- e.g. AUR, Ports system, etc
